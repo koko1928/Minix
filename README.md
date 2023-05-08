@@ -1,25 +1,2 @@
 # New-OS
-This is new OS
-
-bootloader/
-　bootloader.asm
-kernel/
-　kernel.c
-　kernel.h
-　interrupt.asm
-drivers/
-　console.c
-　console.h
-　keyboard.c
-　keyboard.h
-　timer.c
-　timer.h
-user/
-　shell.c
-　shell.h
-filesystem/
-　filesystem.c
-　filesystem.h
-network/
-　network.c
-　network.h
+This OS is a simple UNIX-based OS named "Minix". Starting with the bootloader, it includes the kernel, device drivers, user modes, filesystems and network functions. Minix is designed as a lightweight and experimental OS. Users are free to edit and customize Minix.
